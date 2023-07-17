@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "budgeter",
+    "serviceName": "AppSync",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authbudgeterdcc92a27"
+    },
+    "conflictResolution": {},
+    "additionalAuthTypes": []
+  }
+}
